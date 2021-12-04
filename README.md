@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Aditya Agrawal 👋 </h1>
 <h3 align="center">🚀 Competitive Programmer | Flutter Developer | Front-End Developer 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "25%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
