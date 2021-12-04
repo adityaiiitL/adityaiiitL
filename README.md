@@ -12,4 +12,4 @@ I'm Aditya Agrawal, an Information Technology student who is passionate about wr
  - [Codeforces](https://codeforces.com/profile/aditya_iiitL)
  - [Codechef](https://www.codechef.com/users/agrawal_2002)
 
-⭐️ From [aditya](https://github.com/adityaiiitL)
+⭐️ From [Aditya Agrawal](https://github.com/adityaiiitL)
