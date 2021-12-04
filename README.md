@@ -7,9 +7,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently persuing a Degree in Bachelor's of Technology in IT at Indian Institute of Information Technology, Lucknow.
 - 📚 I’m currently focussing over Competitive Programming and DSA stuffs along with Flutter Tech.
 - 📫 How to reach me: 
-- [Linkedin](https://www.linkedin.com/in/aditya-agrawal-87ab6a200/) 
-- [Gmail](mailto:lit2020023@iiitl.ac.in)
-- [Codeforces](https://codeforces.com/profile/aditya_iiitL)
-- [Codechef](https://www.codechef.com/users/agrawal_2002)
+ [Linkedin](https://www.linkedin.com/in/aditya-agrawal-87ab6a200/) 
+ [Gmail](mailto:lit2020023@iiitl.ac.in)
+ [Codeforces](https://codeforces.com/profile/aditya_iiitL)
+ [Codechef](https://www.codechef.com/users/agrawal_2002)
 
 ⭐️ From [aditya](https://github.com/adityaiiitL)
