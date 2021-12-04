@@ -1,15 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Aditya Agrawal 👋 </h1>
+<h3 align="center">🚀 Competitive Programmer | Flutter Developer | Front-End Developer 🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+  - 🤔 &nbsp; Exploring new technologies, improving DSA skills and developing software solutions.
+  - 🎓 &nbsp; Studying Information Technology at IIIT Lucknow.
+  - 💼 &nbsp; Currently focusing on Competitive Programming.
+  - ✍️ &nbsp; Gaming and Singing as hobbies/side hustles.  
+</div> 
+</div>
 
-I'm Aditya Agrawal, an Information Technology student who is passionate about writing code, solving problems, automating stuffs, and building softwares.
-
-- 🔭 I’m currently persuing a Degree in Bachelor's of Technology in IT at Indian Institute of Information Technology, Lucknow, UP.
-- 📚 I’m currently focussing over Competitive Programming and DSA stuffs along with Flutter Tech.
-- 📫 How to reach me: 👇
- - [Linkedin](https://www.linkedin.com/in/aditya-agrawal-87ab6a200/) 
- - [Gmail](mailto:lit2020023@iiitl.ac.in)
- - [Codeforces](https://codeforces.com/profile/aditya_iiitL)
- - [Codechef](https://www.codechef.com/users/agrawal_2002)
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+    - C/C++
+    - Java
+    - Javascript
+    - Dart
+</div> 
 
 ⭐️ From [Aditya Agrawal](https://github.com/adityaiiitL)
