@@ -43,13 +43,13 @@
   **📫 Reach me at:**<br>
 
   [Linkedin](https://www.linkedin.com/in/aditya-agrawal-87ab6a200/)
-  &nbsp
+  &nbsp;
   [Facebook](https://www.facebook.com/profile.php?id=100012302170637)
-  &nbsp
+  &nbsp;
   [Github](https://github.com/adityaiiitL)
-  &nbsp
+  &nbsp;
   [Codechef](https://www.codechef.com/users/agrawal_2002)
-  &nbsp
+  &nbsp;
   [Codeforces](https://codeforces.com/profile/aditya_iiitL)
 
 </div>
