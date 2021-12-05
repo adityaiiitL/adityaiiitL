@@ -46,7 +46,7 @@
   &nbsp;
   [Facebook](https://www.facebook.com/profile.php?id=100012302170637)
   &nbsp;
-  [Github](https://github.com/adityaiiitL)
+  [Gmail](mailto:LIT2020023@iiitl.ac.in)
   &nbsp;
   [Codechef](https://www.codechef.com/users/agrawal_2002)
   &nbsp;
